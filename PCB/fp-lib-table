@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "OF1PI")(type "KiCad")(uri "${KIPRJMOD}/OF1PI")(options "")(descr ""))
+  (lib (name "qw-footprints")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw-footprints")(options "")(descr ""))
+  (lib (name "qw-logo")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw-logo")(options "")(descr ""))
+)
