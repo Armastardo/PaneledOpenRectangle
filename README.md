@@ -16,11 +16,17 @@ If you're not using the same acrylic thickness, please adjust this 20 mm accordi
 
 ## Ordering
 
+![image](https://github.com/Armastardo/PaneledOpenRectangle/blob/main/Pictures/PCBWayLogo.png)
+
+![image](https://github.com/Armastardo/PaneledOpenRectangle/blob/main/Pictures/SponsoredPCB.png)
+
+A round of prototypes for this project was sponsored by PCBWay. They make really good looking PCBs and have a lot of options on colors and finishes. I'd recommend checking them out. https://www.pcbway.com/
+
 (PCB Folder > Production)
 
 If you're soldering everything by hand, you can use the complete panel and source the parts. Pick whatever color you want and make sure you write "5" in the Different Design section for PCB Specifications. You'll get an additional charge if you don't and it's usually a couple of extra bucks for that.
 
-If you're not soldering everything by hand, please use the individual gerbers to get a quote via JLCPCB. This way you can save on costs since PCBA on a paneled board is super expensive. You only need them to solder the USB port and the Schottky diode to the board. You'll end up with 5 of each part anyway since that's the minimum order.
+If you're not soldering everything by hand, please use the individual gerbers to get a quote. This way you can save on costs since PCBA on a paneled board is super expensive. You only need them to solder the USB port and the Schottky diode to the board. You'll end up with 5 of each part anyway since that's the minimum order.
 
 Upload individual gerbers, select the color, leave everything else as is and save them one by one to the cart.
 
@@ -43,7 +49,7 @@ This is not a begginners build by no means. Requires a bit of soldering and usin
 ## Materials
 
 Necessary pieces:
-- 16 x m2x6mm screws -https://aliexpress.com/item/32894693182.html
+- 16 x m2x6mm screws - https://aliexpress.com/item/32894693182.html
 - 30 x m2x3mm screws - https://aliexpress.com/item/1005004462700273.html 
 - 15 x m2x3mm standoffs - https://aliexpress.com/item/32894693182.html
 - 20 x m2x20mm standoffs - https://aliexpress.com/item/32894693182.html
@@ -57,7 +63,7 @@ Necessary pieces:
 
 If you're not using a PCBA service:
 - Schottky Diode (1N5817)* - https://aliexpress.com/item/32800896118.html
-- 24 Pin USB C Port* - https://vi.aliexpress.com/item/4001076268359.html
+- 24 Pin USB C Port* - https://aliexpress.com/item/4001076268359.html
 
 If you're planning on using a GCC cable you don't need neither the diode nor the USB C port.
 
